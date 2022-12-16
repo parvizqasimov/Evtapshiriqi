@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\bin\Debug\net6.0\Evtapshiriqi1.exe
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\bin\Debug\net6.0\Evtapshiriqi1.deps.json
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\bin\Debug\net6.0\Evtapshiriqi1.runtimeconfig.json
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\bin\Debug\net6.0\Evtapshiriqi1.dll
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\bin\Debug\net6.0\Evtapshiriqi1.pdb
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\obj\Debug\net6.0\Evtapshiriqi1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\obj\Debug\net6.0\Evtapshiriqi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\obj\Debug\net6.0\Evtapshiriqi1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\obj\Debug\net6.0\Evtapshiriqi1.AssemblyInfo.cs
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\obj\Debug\net6.0\Evtapshiriqi1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\obj\Debug\net6.0\Evtapshiriqi1.dll
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\obj\Debug\net6.0\refint\Evtapshiriqi1.dll
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\obj\Debug\net6.0\Evtapshiriqi1.pdb
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\obj\Debug\net6.0\Evtapshiriqi1.genruntimeconfig.cache
+C:\Users\User\source\repos\Evtapshiriqi1\Evtapshiriqi1\obj\Debug\net6.0\ref\Evtapshiriqi1.dll
